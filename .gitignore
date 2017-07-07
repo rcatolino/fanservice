@@ -1,0 +1,6 @@
+*~
+.*.swp
+bin/
+gen/
+libs/
+local.properties
